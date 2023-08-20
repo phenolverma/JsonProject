@@ -1,0 +1,16 @@
+{
+"101": {
+"name": "John",
+"age": 31,
+"dept": null,
+"Salary": 26000,
+"onpayroll": false
+},
+"102": {
+"name": "Jatin",
+"age": 32,
+"dept": "IT",
+"Salary": 25000,
+"onpayroll": true
+}
+}
